@@ -27,4 +27,4 @@ _This is the first web pages I've ever created. It contains some styling using c
 
 _If you run into a problem or in case you have any ideas or concerns please contact me._
 
-Copyright (c) _date_ _author name(s)_
+Copyright (c) _01/04/2023_ _Asia Kaplanyan_
