@@ -1,19 +1,27 @@
 h1 {
   color:blueviolet;
   text-align:center;
+  font-style:oblique;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 h2 {
+  text-align:center;
   font-style: italic;
-  font-family: 'Courier New', Courier, monospace;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   line-height: normal;
 }
 
 h3 {
+  text-align:center;
   font-size: medium;
   font-weight: 100;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 p {
-  text-align:left;
+  text-align:center;
   font-style:bold;
+  font-size: small;
+  font-stretch: narrower;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
