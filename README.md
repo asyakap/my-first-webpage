@@ -11,7 +11,7 @@
 
 ## Description
 
-_{This is the first web pages I've ever created. It contains some styling using css technology.}_
+_This is the first web pages I've ever created. It contains some styling using css technology._
 
 ## Setup/Installation Requirements
 
@@ -25,6 +25,6 @@ _{This is the first web pages I've ever created. It contains some styling using 
 
 ## License
 
-_{If you run into a problem or in case you have any ideas or concerns please contact me. Let people know what to do if they run into any issues or have questions, ideas or concerns.}_
+_If you run into a problem or in case you have any ideas or concerns please contact me._
 
 Copyright (c) _date_ _author name(s)_
